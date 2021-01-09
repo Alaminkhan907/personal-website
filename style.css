@@ -50,3 +50,16 @@ section {
   color: white;
   font-weight: 700;
 }
+.work {
+  width: 20%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 5%;
+}
+.last_work {
+  padding-top: 20%;
+}
+#project_title {
+  font-size: 25px;
+  text-align: center;
+}
